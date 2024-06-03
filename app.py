@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit.web.cli as stcli
 
 st.header('Tossing a Coin')
 
