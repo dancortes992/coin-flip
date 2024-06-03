@@ -1,5 +1,5 @@
 import streamlit.web.cli as stcli
 
-st.header('Tossing a Coin')
+stcli.header('Tossing a Coin')
 
-st.write('It is not a functional application yet. Under construction.')
+stcli.write('It is not a functional application yet. Under construction.')
